@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sorousch9
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on React Projets
+- 📫 How to reach me Per Email : Soroush_raw@hotmail.com
