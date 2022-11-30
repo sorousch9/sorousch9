@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sorousch9
 - 👀 I’m interested in React and Redux
-- 🌱 I’m currently React Testing with React-Redux Library and Jest
+- 🌱 I’m currently focusing on React Testing with React-Redux Library and Jest
 - 💞️ I’m looking to collaborate on React testing
 - 📫 How to reach me Per Email : Soroush_raw@hotmail.com
