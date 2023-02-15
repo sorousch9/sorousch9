@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sorousch9
-- 👀 I’m interested in React and Redux
+- 👀 I’m interested in React , Redux and TypeScript
 - 🌱 I’m currently focusing on React Testing with Jest
-- 📫 How to reach me Per Email : Soroush_raw@hotmail.com
