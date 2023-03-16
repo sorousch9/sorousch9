@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sorousch9
 Hi there! Welcome to my Github profile.
 
 I am a Javascript and React developer with a focus on Typescript. My expertise lies in utilizing Material UI and Bootstrap to create sleek and modern user interfaces. I am also proficient in using React Router DOM to create smooth and seamless user experiences.
